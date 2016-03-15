@@ -36,6 +36,6 @@ def main():
     DemoNormalPrimes_CribleEratosthene(longueur, "fichiermeth1.bmp")
 
     # Méthode 2
-    DemoNormalPrimes_methode2(longueur, "fichiermeth2.bmp")
+    DemoNormalPrimes_CribleAtkin(longueur, "fichiermeth2.bmp")
 
 main()
