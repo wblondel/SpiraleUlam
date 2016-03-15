@@ -13,7 +13,7 @@ def DemoNormalPrimes_CribleEratosthene(longueur, fichier):
         ulam.show_spiral(longueur, primes, symbol="")
 
 
-def DemoNormalPrimes_methode2(longueur, fichier):
+def DemoNormalPrimes_CribleAtkin(longueur, fichier):
     start_time2 = time.clock()
     primes = ulam.InitialisePremiers_methode2(longueur)
     sp = ulam.GenerateurSpirale(longueur, fichier, primes[1:])
