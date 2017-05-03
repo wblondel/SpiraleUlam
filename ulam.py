@@ -1,8 +1,9 @@
-# coding: utf8
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
 
-# SpiraleUlam  Copyright (C) 2016    William Gerald Blondel
-# william.blondel78@gmail.com
-# Last modified 16th March 2016 1.06am
+# SpiraleUlam  Copyright (C) 2017    William Gerald Blondel
+# contact@williamblondel.fr
+# Last modified 3rd May 2017
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
